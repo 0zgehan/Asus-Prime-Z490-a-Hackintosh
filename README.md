@@ -42,8 +42,12 @@ Despite some negative feedback over the internet about Asus boards and some diff
 
 ## Installation:
 
-After buiding the PC, I installed Windows and updated BIOS. Followed every step carefully with Dortania's guide. Having a Windows install helled a bit. Took almost an hour to create the USB installer but it was worth it. Installation was flawless. As a habbit from past, I disable all peripherials from BIOS, remove dGPU and the Windows drive. In time, this proved to be less time consuming. Before I upgraded to 5700XT I had an Asus RX580. It didn't work without CSM enabled because of the cards BIOS. Enabling CSM didn't cause any problems though. Besides this everything was problem free and there's nothing extraordinary to report.
-Included the BIOS settings and User Profile files if anyone wants to check. Beware, onboard audio is disabled!  
+After buiding the PC, I installed Windows and updated BIOS. Followed every step carefully with Dortania's guide. Having a Windows install hellped a bit. Took almost a day to create the USB installer but it was worth it. Installation was flawless. As a habbit from past, I disabled all peripherials from BIOS, remove dGPU and the Windows drive. In time, this method proved to be less time consuming. 
+Before I upgraded to 5700XT I had an Asus RX580. It didn't work without CSM enabled because of the cards BIOS. Enabling CSM didn't cause any problems though.  
+Besides this everything was problem free and there's nothing extraordinary to report.  
+
+Included the BIOS settings and User Profile files if anyone wants to check. Beware, onboard audio is disabled!   
+
 And this is the USB port mapping I use:
 
 ![alt text](https://github.com/0zgehan/Asus-Prime-Z490-a-Hackintosh/blob/master/DOCS/USBMAP.png) 
