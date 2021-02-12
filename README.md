@@ -1,5 +1,7 @@
 # Asus Prime Z490-A Hackintosh
 
+UPDATE: BIG SUR EFI added, OC 0.6.6
+
 ![alt text](https://github.com/0zgehan/Asus-Prime-Z490-a-Hackintosh/blob/master/DOCS/atm.png)  
 ![alt text](https://github.com/0zgehan/Asus-Prime-Z490-a-Hackintosh/blob/master/DOCS/iMac19%2C1.png). 
 
